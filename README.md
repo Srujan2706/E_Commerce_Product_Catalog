@@ -15,11 +15,11 @@ This project is a backend implementation of an **E-Commerce Product Catalog Syst
 
 ## 📦 Features
 
-- **Customer Management** – Add, view, and manage customer data.
-- **Seller Management** – Register sellers and their product listings.
+- **Customer Management** – Register, Login, and add product to their respective cart, and pay them.
+- **Seller Management** – Register, Login, and add products so that customer can buy it.
 - **Product Catalog** – Create and browse product data (ID, name, price, quantity).
-- **Cart System** – Add to cart, view active cart, and delete or checkout.
-- **Payment Simulation** – Complete orders using a mock payment flow.
+- **Cart System** – Create cart, add product to cart.
+- **Payment Simulation** – Calculates the total amount to be paid, and checks whether the payment process is successful or not.
 
 ---
 
